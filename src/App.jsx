@@ -8,6 +8,6 @@ import Register from "./pages/Register";
 import WApp from "./pages/whatsapp";
 
 const App = () => {
-  return <Cart/>;
+  return <Home/>;
 };
 export default App
